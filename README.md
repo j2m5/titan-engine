@@ -4,7 +4,7 @@ Space simulator based on WebGL-library Three.js, source code written with TypeSc
 
 Currently available three star systems - Sol, TOI-519 and Tatooine from fictional universe Star Wars
 
-Below some screenshots of the most famous celestial objects take from Sol system scene
+Below some screenshots of the most famous celestial objects taken from Sol system scene
 
 Earth
 ![earth](https://github.com/user-attachments/assets/3c87abd8-790e-4ea4-b541-cfd094f0b600)
