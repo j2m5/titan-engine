@@ -12,7 +12,7 @@ Earth
 Saturn
 ![saturn](https://github.com/user-attachments/assets/42de41d2-fa33-4ae8-89c3-4655e7b89612)
 
-Uranus with one if its satellites
+Uranus with one of its satellites
 ![uranus](https://github.com/user-attachments/assets/dbf32848-bc4f-442e-8c29-f3a3a295b484)
 
 Neptune
