@@ -81,6 +81,7 @@ export enum AllowedModelTypes {
   barycenter,
   star,
   planet,
+  blackhole,
   atmosphere,
   halo,
   ring

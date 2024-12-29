@@ -27,6 +27,7 @@ import { Glow } from '@/models/Glow'
 import { IObject3D } from '@/core/objects3d/types'
 import { Halo } from '@/models/Halo'
 import { NullRenderingParameters } from '@/core/data/nullObjects/NullRenderingParameters'
+import { BlackHole3D } from '@/core/objects3d/meshes/BlackHole3D'
 
 class CelestialObject extends Model {
   private readonly data: ICelestialObject
@@ -60,6 +61,8 @@ class CelestialObject extends Model {
         return new Star3D(this)
       case 'planet':
         return new Planet3D(this)
+      case 'blackhole':
+        return new BlackHole3D(this)
       default:
         return new Barycenter3D(this)
     }

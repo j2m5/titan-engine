@@ -92,5 +92,15 @@ export const Scenarios: TScenario[] = [
       'Adriana III',
       'Adriana IV'
     ]
+  },
+  {
+    id: 'sagitarius',
+    name: 'Sagitarius system',
+    description: 'Supermassive black hole',
+    preview: 'unknown.png',
+    size: 100,
+    defaultCameraPosition: [0, fromAstronomicalUnits(0.5), fromAstronomicalUnits(0.5)],
+    lights: ['Sagitarius A'],
+    objects: ['Sagitarius A']
   }
 ]
