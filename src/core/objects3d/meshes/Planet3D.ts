@@ -48,11 +48,6 @@ class Planet3D extends CelestialObject3D implements CompositedRenderable, UsesLO
     super.update()
 
     this.sphere.center.copy(this.worldPosition)
-
-    if (engine.cameraSphere.intersectsSphere(this.sphere)) {
-      console.log('intersect')
-      engine.camera.position.sub(cameraDirection.multiplyScalar(0.000001))
-    }
   }
 
   private computeDistanceLOD(): number {

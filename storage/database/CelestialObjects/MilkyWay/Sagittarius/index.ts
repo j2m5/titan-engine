@@ -1,9 +1,9 @@
 import { ICelestialObject } from '@/core/data/types'
 import { SolarMass, SolarRadius } from '@/core/constants'
 
-export const SagitariusObjects: ICelestialObject[] = [
+export const SagittariusObjects: ICelestialObject[] = [
   {
-    name: 'Sagitarius A',
+    name: 'Sagittarius A',
     parent: null,
     type: 'blackhole',
     description: '',
