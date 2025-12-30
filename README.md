@@ -6,6 +6,8 @@ Currently available three star systems - Sol, TOI-519 and Tatooine from fictiona
 
 Below some screenshots of the most famous celestial objects taken from Sol system scene
 
+[DEMO](https://j2m5.github.io/)
+
 Earth
 ![earth](https://github.com/user-attachments/assets/3c87abd8-790e-4ea4-b541-cfd094f0b600)
 
